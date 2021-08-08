@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ggggght.cron.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ggggght.cron.MyBundle
 
 class MyApplicationService {
 

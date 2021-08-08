@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ggggght.cron.services
 
+import com.github.ggggght.cron.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
